@@ -1,4 +1,4 @@
-# 考易通 - 成人自学考试管理平台
+# 考易通 - 基于OCR智能识别的自考管理系统
 
 考易通是一个面向社会人士和在读学生自学考试的管理平台。考生可以在平台上填写报名信息，管理员可以发布公告，审核报名流程，管理权限等等。
 
@@ -24,8 +24,8 @@
 
 ## 技术栈
 
-- 前端：React、Ant Design、Vue
-- 后端：Node.js、spring、MongoDB
+- 前端：element-ui、Ant Design、Vue
+- 后端：Node.js、spring-boot、MongoDB
 
 
 ## IDE
