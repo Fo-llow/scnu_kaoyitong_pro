@@ -1,0 +1,64 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/fastjson-1.1.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-instrument-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jackson-mapper-asl-1.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jjwt-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jackson-core-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-io-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-messaging-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-lang-1_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/json-lib-2.1-jdk13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-collections-3.2.1-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-jms-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-aspects-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-context-support-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jackson-databind-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-oxm-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-beanutils-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/standard-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/commons-logging-1.1.1-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/jackson-core-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/gson-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-test-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/ezmorph-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/end/spring/out/artifacts/spring_new_war_exploded/WEB-INF/lib/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

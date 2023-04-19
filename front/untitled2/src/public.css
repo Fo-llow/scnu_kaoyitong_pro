@@ -1,0 +1,13 @@
+/* 全局css：https://blog.csdn.net/qq_52025611/article/details/124019846 */
+/* 页面出现两个滚动条的解决方法：https://blog.csdn.net/m0_56302604/article/details/123600603 */
+/* 解决内部滚动条 */
+.el-main {
+    overflow:visible;
+}
+
+.father{
+    overflow: hidden;           /*当内容溢出元素框时所触发的事件*/
+    white-space: nowrap;        /*强制同一行内显示所有文本文字，让所有文字内容中一排显示不换行。*/
+    text-overflow: ellipsis;    /*当对象内文本一处时显示省略标记(...)。*/
+}
+

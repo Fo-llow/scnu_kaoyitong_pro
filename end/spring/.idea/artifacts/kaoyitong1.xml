@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="kaoyitong1">
+    <output-path>$PROJECT_DIR$/out/artifacts/kaoyitong1</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring_new" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="library" level="project" name="jackson-annotations-2.9.0" />
+          <element id="library" level="project" name="jackson-core-2.9.0" />
+          <element id="library" level="project" name="jackson-databind-2.9.0" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="jjwt-0.9.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="spring_new/web/Web" />
+    </root>
+  </artifact>
+</component>
