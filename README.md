@@ -28,8 +28,10 @@
 - 后端：Node.js、spring、MongoDB
 
 
+## IDE
 - 本项目前后端分离，相关文件分别放在/end 和/front文件夹下
-
+- 后端建议使用IntelliJ IDEA 打开运行部署
+- 前端可使用Vscode 打开运行部署
 
 ## 联系我们
 
